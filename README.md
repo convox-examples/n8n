@@ -6,9 +6,9 @@ SMTP variables need to be configured in convox.yml for user management features 
 To skip this step and manually manage users set:<BR>
 N8N_USER_MANAGEMENT_DISABLED=true<BR>
 <BR>
-
-[n8n Environment Variables](https://docs.n8n.io/hosting/environment-variables/):<BR>
-[n8n User Guide](https://docs.n8n.io/):<BR>
+A complete list of environment variables, their discriptions, and full n8n documentation can be found here:<BR>
+[n8n Environment Variables](https://docs.n8n.io/hosting/environment-variables/)<BR>
+[n8n User Guide](https://docs.n8n.io/)<BR>
 <BR>
 The following files were added/modified against a brand new n8n app:<BR>
 <BR>
