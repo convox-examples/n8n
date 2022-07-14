@@ -14,15 +14,14 @@ services:
       - N8N_PORT=5678
       - N8N_EMAIL_MODE=smtp
       - N8N_SMTP_SSL=true
-      - N8N_EDITOR_BASE_URL=
       - N8N_HOST=
-      - HOST=
+      - N8N_EDITOR_BASE_URL=
       - N8N_SMTP_HOST=
       - N8N_SMTP_PORT=
       - N8N_SMTP_USER=
-      - N8N_SMTP_SENDER=
       - N8N_SMTP_PASS=
-      
+      - N8N_SMTP_SENDER=
+
     port: 5678
     resources:
       - db
