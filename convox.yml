@@ -21,7 +21,6 @@ services:
       - N8N_SMTP_USER=
       - N8N_SMTP_PASS=
       - N8N_SMTP_SENDER=
-
     port: 5678
     resources:
       - db
